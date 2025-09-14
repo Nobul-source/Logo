@@ -381,7 +381,7 @@ ul ul {
     padding: 0.8em 1.5em;
     border-radius: 0.4em;
     margin-top: 2em;
-    font-size: 0.5rem;
+    font-size: 14px;
 
 
 }
@@ -495,7 +495,7 @@ ul ul {
 .services-list div {
     background: rgba(172, 157, 172, 0.5);
     padding: 30px;
-    font-size: 0.5rem;
+    font-size: 14px;
     font-weight: 300;
     border-radius: 10px;
     transition: background 0.5s, transform 0.5s;
@@ -507,7 +507,7 @@ ul ul {
     padding: 0.3em;
     margin-bottom: 1.5em;
     width: 300px;
-    font-size: 3.5rem;
+    font-size: 3.5em;
     text-align: center;
     border-radius: 0.3em;
     text-shadow: rgba(102, 101, 102, 0.2);
@@ -526,7 +526,7 @@ ul ul {
 .services-list div .fa-solid {
     margin-bottom: 0.7em;
     color: #FFEDE5;
-    font-size: 1.5rem;
+    font-size: 1.5em;
 }
 
 .services-list div:hover {
@@ -605,7 +605,7 @@ ul ul {
     flex-direction: column;
     text-align: center;
     padding: 0 21px;
-    font-size: 0.5rem;
+    font-size: 14px;
     transition: height 0.5s;
 }
 
@@ -670,7 +670,7 @@ ul ul {
 
 .contact-left .sub-title {
     display: inline-block;
-    font-size: 1.5rem;
+    font-size: 14px;
     font-weight: 600;
     color: #FFEDE5;
     background: #776a77;
@@ -687,7 +687,7 @@ ul ul {
 .contact-left p {
     margin-top: 1.5em;
     color: #E0D0CA;
-    font-size: 1.2rem;
+    font-size: 1.2em;
 }
 
 .contact-left .social-icons {
@@ -698,12 +698,12 @@ ul ul {
 .contact-left p i {
     color: #FFEDE5;
     margin-right: 0.8em;
-    font-size: 1.2rem;
+    font-size: 1.2em;
 }
 
 .contact-left .social-icons a {
     text-decoration: none;
-    font-size: 1.8rem;
+    font-size: 1.8em;
     margin-top: 0.5em;
     margin-right: 0.8em;
     color: #FFEDE5;
@@ -724,7 +724,7 @@ ul ul {
     border-radius: 0.5em;
     text-decoration: none;
     border: none;
-    font-size: 0.5rem;
+    font-size: 14px
 }
 
 .btn.btn2:hover {
@@ -751,7 +751,7 @@ form textarea {
     padding: 1em;
     margin: 1em 0;
     color: #776a77;
-    font-size: 0.5rem;
+    font-size: 14px;
     border-radius: 0.5em;
 }
 
@@ -830,7 +830,7 @@ nav .fa-bars {
 
     nav .fa-bars {
         color: #FFEDE5;
-        font-size: 3rem;
+        font-size: 3em;
     }
 
     nav ul {
@@ -851,7 +851,7 @@ nav .fa-bars {
     nav ul li {
         display: block;
         margin: 0 3em;
-        font-size: 1.2rem;
+        font-size: 1.2em;
 
     }
 
@@ -881,7 +881,7 @@ nav .fa-bars {
 
     nav ul li .fa-house {
         margin: 1.5em 0 0.5em 0;
-        font-size: 1.rem;
+        font-size: 1.5em;
     }
 
     nav ul .fa-square-xmark {
@@ -889,7 +889,7 @@ nav .fa-bars {
         top: 25px;
         left: 25px;
         cursor: pointer;
-        font-size: 3rem;
+        font-size: 3em;
         color: #FFEDE5;
         margin-bottom: 1em;
 
@@ -914,7 +914,7 @@ nav .fa-bars {
     }
 
     .container .row .contact-left p {
-        font-size: 1.5rem;
+        font-size: 1.5em;
     }
 
     .container .row .contact-left .social-icons a {
