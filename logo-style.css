@@ -5,7 +5,8 @@
 
 html {
     box-sizing: border-box;
-    font: 11px 'Poppins', sans-serif;
+    font-size: calc(11px + 4vh + 18px);
+    font-family: 'Poppins', sans-serif;
 }
 
 *,
@@ -805,6 +806,16 @@ nav .fa-bars {
 
 @media  (width <= 600px) {
 
+    .logo{
+        background-size: 100%;
+    }
+
+    .subheading{
+        padding: 0;
+        margin-block: 3em;
+
+    }
+
 nav .fa-square-xmark,
 nav .fa-bars {
    
@@ -908,6 +919,11 @@ nav .fa-bars {
     width: 70%;
     margin-top: 1.5em;
 }
+
+footer {
+    margin: 2em;
+}
+
 }
 
 
